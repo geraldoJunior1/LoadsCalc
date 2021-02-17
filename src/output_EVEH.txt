@@ -1,0 +1,3 @@
+carregamento no EV : 16.7572 N
+carregamento no EH : 115.954 N
+

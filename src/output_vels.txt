@@ -1,0 +1,6 @@
+A velocidade de stall e: 9.80276 m/s
+A velocidade de cruzeiro e: 18.135 m/s
+A velocidade de manobra e: 15.4995 m/s
+A velocidade de mergulho e: 25.1875 m/s
+
+

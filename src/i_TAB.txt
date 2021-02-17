@@ -1,0 +1,5 @@
+0.50 		//corda da ponta
+0.75 		//corda da raiz
+0.00 		//posiçao da hinge line na ponta
+0.00 		//posiçao da hinge line na raiz
+1.50		// envergadura

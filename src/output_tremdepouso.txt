@@ -1,0 +1,35 @@
+CG -> TPP: 0.29156
+TTP -> triquilha: 4.48553
+CG -> triquilha: 4.19397
+Entre rodas: 0.385689
+
+DropTest 
+
+velocidade (m/s): 2.45661
+altura (m): 0.0140837
+
+Situação de pouso em 3 rodas: 
+
+Triquilha: 
+Componente Vertical (N): 9.14566
+Componente Horizontal (N): 10.8086
+
+Trem de pouso principal: 
+Componente Vertical (N): 131.557
+Componente horizontal (N): 155.478
+força lateral interna (N): 132.435
+força lateral externa (N): 87.4071
+
+Situação de pouso em 2 rodas: 
+
+Trem de pouso principal: 
+Componente Vertical (N): 140.702
+Componente Horizontal (N): 166.286
+força lateral interna (N): 132.435
+força lateral externa (N): 87.4071
+
+Situação de pouso em 1 roda: 
+
+Trem de pouso principal: 
+Componente Vertical (N): 352.277
+Componente Horizontal (N): 23.2503

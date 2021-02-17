@@ -1,0 +1,48 @@
+Para rodar o programa você deve colocar em cada linha o dado para input, o programa le cada linha e cada linha tem a sua respectiva variável, então se um valor estiver errado ou trocado, o programa irá fazer o cálculo errado. Abaixo segue o que deve ser colocado em cada linha dos arquivos (EM SISTEMA INTERNACIONAL!!)
+
+
+input das sups de controle
+
+1º linha - corda da ponta
+2º linha - corda da raiz
+3º linha - corda da posiçao da hinge line na ponta
+4º linha - corda da posiçao da hinge line na raiz
+5º linha - envergadura (semi
+
+
+
+input de EV e EH
+
+1º linha - corda da ponta do estabilizador horizontal
+2º linha - corda da raiz do estabilizador horizontal
+3º linha - envergadura do estabilizador horizontal
+
+
+
+input do jacaré
+
+1º linha - vmax
+2º linha - W
+3º linha - Wmin
+4º linha - S
+5º linha - cl
+6º linha - n1
+7º linha - n2
+8º linha - ro
+
+
+Os outputs sairão da sequinte forma:
+
+
+diagramas vn:
+
+primeira coluna = velocidade (m/s)
+segunda coluna = fator de carga
+
+superfícies de controle:
+
+primeira coluna = posicão na envergadura (m)
+segunda coluna = carga
+terceira coluna = momento
+quarta coluna (FLAP e TAB) = carga com a sup para baixo
+quinta coluna (FLAP e TAB) = momento com a sup para baixo
